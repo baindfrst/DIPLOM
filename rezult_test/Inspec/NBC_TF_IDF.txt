@@ -1,0 +1,287 @@
+Clausal resolution in a logic of rational agency
+A resolution based proof system for a Temporal Logic of Possible Belief is
+	presented. This logic is the combination of the branching-time temporal
+	logic CTL (representing change over time) with the modal logic KD45
+	(representing belief). Such combinations of temporal or dynamic logics
+	and modal logics are useful for specifying complex properties of
+	multi-agent systems. Proof methods are important for developing
+	verification techniques for these complex multi-modal logics.
+	Soundness, completeness and termination of the proof method are shown
+	and simple examples illustrating its use are given
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'distributed task allocations' 'zero-stability condition' 'formal logic']
+marked:['resolution based proof system', 'temporal logic', 'branching-time temporal logic', 'CTL', 'modal logic', 'KD45', 'belief', 'dynamic logics', 'multi-agent systems', 'multi-modal logics', 'rational agents', 'formal logic', 'multi-agent systems', 'temporal logic']
+Local search with constraint propagation and conflict-based heuristics
+Search algorithms for solving CSP (Constraint Satisfaction Problems) usually
+	fall into one of two main families: local search algorithms and
+	systematic algorithms. Both families have their advantages. Designing
+	hybrid approaches seems promising since those advantages may be
+	combined into a single approach. In this paper, we present a new hybrid
+	technique. It performs a local search over partial assignments instead
+	of complete assignments, and uses filtering techniques and
+	conflict-based techniques to efficiently guide the search. This new
+	technique benefits from both classical approaches: a priori pruning of
+	the search space from filtering-based search and possible repair of
+	early mistakes from local search. We focus on a specific version of
+	this technique: tabu decision-repair. Experiments done on open-shop
+	scheduling problems show that our approach competes well with the best
+	highly specialized algorithms
+
+extracted:['disturbance frequencies' 'divisibility relation' 'documentation'
+ 'dose calculation engine' 'dose distributions'
+ 'dose planning method Monte Carlo code' 'dose-volume objective values'
+ 'distributed task allocations' 'zero-stability condition' 'optimisation']
+marked:['search algorithms', 'CSP', 'Constraint Satisfaction Problems', 'local search algorithms', 'systematic algorithms', 'partial assignments', 'filtering techniques', 'tabu decision-repair', 'constraint handling', 'search problems']
+Bit-serial AB/sup 2/ multiplier using modified inner product
+This paper presents a new multiplication algorithm and, based on this
+	algorithm, proposes a hardware architecture, called modified
+	inner-product multiplier (MIPM), which computes AB/sup 2/
+	multiplication based on a linear feedback shift register (LFSR). The
+	algorithm is based on the property of the irreducible all one
+	polynomial (AOP) over the finite field GF(2/sup m/). The proposed
+	architecture reduces the time and space complexity for computing AB/sup
+	2/. The proposed architecture has a potential application to
+	implementing exponentiation architecture for a public-key cryptosystem
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'double-cut condition' 'zero-stability condition' 'parallel programming']
+marked:['bit-serial AB/sup 2/ multiplier', 'modified inner product', 'multiplication algorithm', 'hardware architecture', 'modified inner-product multiplier', 'linear feedback shift register', 'irreducible all one polynomial', 'space complexity', 'time complexity', 'public-key cryptosystem', 'computational complexity', 'cryptography', 'logic design', 'multiplying circuits', 'shift registers']
+Yet some more complexity results for default logic
+We identify several new tractable subsets and several new intractable simple
+	cases for reasoning in the propositional version of Reiter's default
+	logic. The majority of our findings are related to brave reasoning. By
+	making some intuitive observations, most classes that we identify can
+	be derived quite easily from some subsets of default logic already
+	known in the literature. Some of the subsets we discuss are subclasses
+	of the so-called "extended logic programs". All the tractable subsets
+	presented in this paper can be recognized in linear time
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'distributed task allocations' 'zero-stability condition' 'formal logic']
+marked:['reasoning', 'default logic', 'complexity results', 'complexity classes', 'nonmonotonic reasoning', 'extended logic programs', 'tractable subsets', 'computational complexity', 'formal logic', 'nonmonotonic reasoning']
+Digital rights (and wrongs)
+Attempting to grasp the many conflicts and proposed safeguards for intellectual
+	property is extremely difficult. Legal, political, economic, and
+	cultural issues-both domestic and international-loom large, almost
+	dwarfing the daunting technological challenges. Solutions devised by
+	courts and legislatures and regulatory agencies are always late out of
+	the blocks and fall ever farther behind. Recently proposed legislation
+	only illustrates the depth and complexity of the problem
+
+extracted:['disturbance adaptability' 'disturbance frequencies'
+ 'divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'distributed shared memory systems' 'zero-stability condition'
+ 'technological forecasting']
+marked:['intellectual property', 'cultural issues', 'economic issues', 'political issues', 'legal issues', 'industrial property', 'legislation']
+Reinventing broadband
+Many believe that broadband providers need to change their whole approach. The
+	future, then, is in reinventing broadband. That means tiered pricing to
+	make broadband more competitive with dial-up access and livelier, more
+	distinct content: video on demand, MP3, and other features exclusive to
+	the fat-pipe superhighway
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'double-cut condition' 'zero-stability condition' 'Internet']
+marked:['MP3', 'business plans', 'video on demand', 'tiered pricing', 'broadband', 'broadband networks', 'costing', 'economics', 'Internet', 'technological forecasting']
+Estimation of thermal coefficients of magneto-optical media
+Previously we described a method for estimating the thermal conductivity of
+	magneto-optic recording media. The method relies on identifying the
+	laser power that brings the maximum temperature of the TbFeCo layer to
+	as high as the Curie temperature. We extensively use a similar method
+	to estimate the heat capacity of a dielectric layer, a TbFeCo layer,
+	and an aluminum alloy layer of magneto-optic recording media.
+	Measurements are conducted on static disks with a beam of light focused
+	on a TbFeCo layer. The method has the advantage of thermal diffusion
+	depending on a multilayer structure and irradiation time
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'distributed task allocations' 'zero-stability condition'
+ 'optical disc storage']
+marked:['thermal coefficients', 'magneto-optical media', 'thermal conductivity', 'laser power', 'maximum temperature', 'TbFeCo layer', 'Curie temperature', 'dielectric layer', 'heat capacity', 'aluminum alloy layer', 'magneto-optic recording media', 'static disks', 'light focusing', 'thermal diffusion', 'multilayer structure', 'irradiation time', 'TbFeCo', 'cobalt alloys', 'iron alloys', 'magnetic thin films', 'magneto-optical recording', 'optical disc storage', 'optical multilayers', 'terbium alloys', 'thermal conductivity measurement']
+The Internet, knowledge and the academy
+As knowledge is released from the bounds of libraries, as research becomes no
+	longer confined to the academy, and education/certification is
+	available, any time/any place, the university and the faculty must
+	redefine themselves. Liberal studies, once the core, and currently
+	eschewed in favor of science and technology, will be reborn in those
+	institutions that can rise above the mundane and embrace an emerging
+	"third culture"
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'double-cut condition' 'zero-stability condition' 'Internet']
+marked:['Internet', 'knowledge', 'academy', 'education', 'certification', 'university', 'faculty', 'liberal studies', 'certification', 'humanities', 'Internet', 'teaching']
+Genetic algorithm-neural network estimation of Cobb angle from torso asymmetry
+	in scoliosis
+Scoliosis severity, measured by the Cobb angle, was estimated by artificial
+	neural network from indices of torso surface asymmetry using a genetic
+	algorithm to select the optimal set of input torso indices. Estimates
+	of the Cobb angle were accurate within 5 degrees in two-thirds, and
+	within 10 degrees in six-sevenths, of a test set of 115 scans of 48
+	scoliosis patients, showing promise for future longitudinal studies to
+	detect scoliosis progression without use of X-rays
+
+extracted:['disturbance frequencies' 'divisibility relation' 'documentation'
+ 'dose calculation engine' 'dose distributions'
+ 'dose planning method Monte Carlo code' 'dose-volume objective values'
+ 'distributed task allocations' 'zero-stability condition' 'optimisation']
+marked:['Cobb angle', 'artificial neural network', 'torso surface asymmetry', 'genetic algorithm', 'input torso indices', 'scoliosis patients', 'scoliosis progression', 'angular measurement', 'bone', 'diagnostic radiography', 'diseases', 'genetic algorithms', 'neural nets']
+A round of cash, a pound of flesh [telecom]
+Despite the upheaval across telecom, venture capital firms are still investing
+	in start-ups. But while a promising idea and a catchy name were enough
+	to guarantee millions in funding at the peak of the dotcom frenzy, now
+	start-ups must prove-their long-term viability, and be willing to
+	concede control of their business to their VC suitors
+
+extracted:['disturbance frequencies' 'divisibility relation' 'documentation'
+ 'dose calculation engine' 'dose distributions'
+ 'dose planning method Monte Carlo code' 'dose-volume objective values'
+ 'distributed systems' 'zero-stability condition' 'decision theory']
+marked:['telecom', 'venture capital firms', 'viability', 'telecommunication']
+Williams nears end of Chapter 11 [telecom]
+Leucadia National Corp. comes through with a $330 million boost for Williams
+	Communications, which should keep the carrier afloat through the
+	remainder of its bankruptcy
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'double-cut condition' 'zero-stability condition' 'Internet']
+marked:['Leucadia National Corp', 'Williams Communications', 'bankruptcy', 'telecommunication']
+Verizon leapfrogs Sprint PCS with Q2 subscriber numbers
+The wireless carrier industry's second-quarter results showed a surprising
+	shift in market share as Sprint PCS fell from grace after a nearly
+	four-year lead in subscriber additions and Verizon Wireless added
+	considerably more customers than analysts expected
+
+extracted:['disturbance frequencies' 'divisibility relation' 'documentation'
+ 'dose calculation engine' 'dose distributions'
+ 'dose planning method Monte Carlo code' 'dose-volume objective values'
+ 'distributed systems' 'zero-stability condition'
+ 'medical image processing']
+marked:['wireless carrier industry', 'Sprint PCS', 'Verizon Wireless', 'radio access networks', 'telecommunication']
+Santera targets independents in major strategy overhaul [telecom]
+With big carriers slashing capital expense budgets, Santera Systems is
+	broadening the reach of its next-generation switching platform to
+	include independent telcos. This week, the vendor will announce that it
+	has signed a deal with Kerman, Calif-based Kerman Telephone Co.
+	Furthermore, the company is angling for inclusion in the Rural
+	Utilities Service's approved equipment list, hoping to sell its Class 5
+	replacement boxes to the smallest carriers. The move is almost a
+	complete reversal for the Plano, Texas-based vendor, which previously
+	focused solely on large carriers, including the RBOCs
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'double-cut condition' 'zero-stability condition' 'Internet']
+marked:['Santera Systems', 'switching', 'Kerman Telephone', 'Rural Utilities Service', 'telecommunication switching']
+A distributed mobile agent framework for maintaining persistent distance
+	education
+Mobile agent techniques involve distributed control if communication is
+	required among different types of agents, especially when mobile agents
+	can migrate from station to station. This technique can be implemented
+	in a distributed distance learning environment, which allows students
+	or instructors to login from anywhere to a central server in an
+	education center while still retaining the look-and-feel of personal
+	setups. In this research paper, we propose a distributed agent
+	framework along with its communication messages to facilitate mobile
+	personal agents, which serve three different groups of distance
+	education users: instructors, students, and system administrators. We
+	propose an agent communication framework as well as agent evolution
+	states of mobile agents. The communication architecture and message
+	transmission protocols are illustrated. The system is implemented on
+	the Windows platform to support nomadic accessibility of remote
+	distance learning users. Personal data also migrate with the mobile
+	agents, allowing users to maintain accessibility to some extent even
+	when the Internet connection is temperately disconnected. Using
+	user-friendly personal agents, a distance education platform can
+	include different tools to meet different needs for users
+
+extracted:['disturbance adaptability' 'disturbance frequencies'
+ 'divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'distributed shared memory systems' 'zero-stability condition'
+ 'software agents']
+marked:['distributed mobile agent framework', 'persistent distance education', 'distributed control', 'central server', 'distributed agent framework', 'message transmission protocols', 'user-friendly personal agents', 'computer aided instruction', 'distance learning', 'Internet', 'software agents']
+The real story behind Calpoint [telecom]
+A former Qwest executive sheds light on the carrier's controversial deal with
+	Calpoint. Discusses why Calpoint gets a monthly check from Quest,
+	regardless of whether it provides services
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'double-cut condition' 'zero-stability condition' 'Internet']
+marked:['Qwest', 'Calpoint', 'telecom carrier', 'telecommunication']
+Software vendors' failure fuels consolidation theories [telecom interconnection
+	and billing]
+As independent software vendors like AP Engines fall by the wayside as
+	independent entities, attrition could accelerate consolidation in the
+	OSS space
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'double-cut condition' 'zero-stability condition' 'parallel programming']
+marked:['telecom interconnection', 'telecom billing', 'operations supports systems', 'Quintessent', 'consolidation', 'AP Engines', 'DP industry', 'telecommunication']
+Senate to Powell: regulate more [FCC]
+FCC Chairman Michael Powell pitched a six-step market-based recovery plan to
+	the Senate last week, but two members of the Commerce Committee told
+	him telecom's revival requires more reliance on regulation
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'double-cut condition' 'zero-stability condition' 'Internet']
+marked:['FCC', 'recovery plan', 'US Senate Commerce Committee', 'telecom industry', 'telecommunication']
+Packet promises past & present [IP switching]
+With the death of the competitive carrier market and the significant slashing
+	of RBOC capex budgets, softswitch vendors have been forced to retrench.
+	Now instead of focusing primarily on limited Internet off-load
+	applications, packet-based softswitches are set to gel around real user
+	needs for services such as voice over IP and IP Centrex
+
+extracted:['distributed-memory parallel supercomputers' 'disturbance adaptability'
+ 'disturbance frequencies' 'divisibility relation' 'documentation'
+ 'dose calculation engine' 'dose distributions'
+ 'dose planning method Monte Carlo code' 'zero-stability condition'
+ 'local area networks']
+marked:['softswitch vendors', 'voice over IP', 'IP Centrex', 'Internet telephony', 'telecommunication switching']
+Commerce Department plan eases 3G spectrum crunch
+The federal government made its first move last week toward cleaning up a
+	spectrum allocation system that was in shambles just a year ago and had
+	some, spectrum-starved wireless carriers fearing they wouldn't be able
+	to compete in third-generation services. The move, however, is far from
+	complete and leaves numerous details unsettled
+
+extracted:['disturbance frequencies' 'divisibility relation' 'documentation'
+ 'dose calculation engine' 'dose distributions'
+ 'dose planning method Monte Carlo code' 'dose-volume objective values'
+ 'distributed task allocations' 'zero-stability condition' 'optimisation']
+marked:['3G spectrum', 'federal government', 'spectrum allocation system', 'wireless carriers', 'cellular radio', 'frequency allocation', 'mobile communication']
+Pioneering women in computer science
+Although their contributions are not well documented, women have played an
+	important role in the development of computer science. A survey of
+	women pioneers demonstrates their influence in designing and
+	programming the first electronic computers and languages, while laying
+	the groundwork for women's expanding involvement in science
+
+extracted:['divisibility relation' 'documentation' 'dose calculation engine'
+ 'dose distributions' 'dose planning method Monte Carlo code'
+ 'dose-volume objective values' 'dosimetric treatment verification'
+ 'double-cut condition' 'zero-stability condition' 'parallel programming']
+marked:['pioneering women', 'computer science development', 'electronic computers', 'programming languages', 'history', 'computer science', 'gender issues', 'history', 'programming languages']
